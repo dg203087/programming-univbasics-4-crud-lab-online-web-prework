@@ -37,7 +37,7 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
-  body_parts = ["brain", "heart", "liver", "feet"]
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
   body_parts[-1]
 end
 
