@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
  body_parts = ["wow", "brain", "heart", "liver", "feet", "arrays!"]
- "arrays!" = body_parts.pop
+ array_word = body_parts.pop
 end
 
 def remove_element_from_start_of_array(array)
